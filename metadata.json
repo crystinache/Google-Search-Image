@@ -1,0 +1,5 @@
+{
+  "name": "Google Image Search Simulator",
+  "description": "Un simulatore di ricerca Google installabile (PWA) con screenshot personalizzabili e funzioni segrete.",
+  "requestFramePermissions": []
+}
